@@ -1,4 +1,4 @@
-# Moeinreza Bagheri
+# Moein Bagheri
 
 **Applied AI · Natural language processing · Product discovery**
 
