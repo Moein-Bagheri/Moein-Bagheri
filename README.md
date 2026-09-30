@@ -1,58 +1,64 @@
 # Moein Bagheri
 
-**Applied AI · Natural language processing · Product discovery**
+**Building AI that listens · Speech & Audio AI**
 
-I'm a Computer Engineering student at the **University of Isfahan**, focused on applied machine learning, language and speech processing, and AI systems. Alongside technical projects, my coursework explores user research, product design and the decisions behind building useful software.
+I'm a Computer Engineering student at the **University of Isfahan**, working on machine learning for speech, audio and language: from signal features to models that understand what people say and how they say it.
 
-I'm preparing for graduate study in AI and exploring early-career AI engineering and research opportunities, including remote collaboration.
+I came to engineering through music. In high school I wrote and released an album ([listen to "Lost" on Spotify](https://open.spotify.com/track/5XsByB4fuiNMkH6EoaS5tr)), and that's when I realised that what I love most is building things. Speech and audio AI is where the two meet.
 
-## Selected work
+Right now I'm preparing a final-year project on Persian speech recognition and applying for MSc programs in AI.
+
+**Relevant coursework:** Signals & Systems (20/20) · Language & Speech Processing (20/20) · Deep Learning · Machine Learning · Applied Linear Algebra · Probability & Statistics · Information Retrieval · Data Mining
+
+## Speech, audio and signals
 
 | Project | Focus | What to explore |
 | --- | --- | --- |
-| [Local research assistant](https://github.com/Moein-Bagheri/local-research-assistant) | RAG · Ollama · FAISS | Local paper retrieval, responses with page references, research tools and a Streamlit interface |
-| [Speech emotion recognition](https://github.com/Moein-Bagheri/speech-emotion-recognition) | Speech · PyTorch · MFCC | Six saved experiments comparing random and speaker-independent evaluation, feature choices and CNN architectures |
-| [Credit limit prediction](https://github.com/Moein-Bagheri/credit-limit-prediction) | Data analysis · Regression | Preprocessing, model comparison, aggregate results and an interpretable prediction pipeline |
-| [Hand gesture recognition](https://github.com/Moein-Bagheri/hand-gesture-recognition) | Computer vision · YOLOv8 | A webcam demonstration, training figures and the selected trained model |
-| [DiaTech product case](https://github.com/Moein-Bagheri/diatech-product-case) | Product discovery · Validation | A team product concept with competitor analysis, interviews, MVP feedback and documented individual contributions |
-| [Tourism UX case study](https://github.com/Moein-Bagheri/tourism-ux-case-study) | User research · Interaction design | Problem framing, user flows, information architecture, wireframes and interface documentation |
+| [Speech emotion recognition](https://github.com/Moein-Bagheri/speech-emotion-recognition) | Speech · PyTorch · MFCC | Six saved experiments comparing random and speaker-independent evaluation, feature choices and 1D CNN architectures |
+| [N-gram music completion](https://github.com/Moein-Bagheri/ngram-music-completion) | Symbolic music · Language models | Musical notes treated as tokens, with unigram–trigram models, smoothing and perplexity analysis |
+| [Deep ECG lab](https://github.com/Moein-Bagheri/deep-ecg-lab) | Biomedical signals · GRU | Sequence models for two ECG classification tasks on MIT-BIH and PTBDB |
 
-## Explore the portfolio
+## Language, retrieval and LLM tools
 
-### AI, language and signals
+| Project | Focus | What to explore |
+| --- | --- | --- |
+| [Local research assistant](https://github.com/Moein-Bagheri/local-research-assistant) | RAG · Ollama · FAISS | Local paper retrieval, answers with page references and a Streamlit interface |
+| [Persian information retrieval](https://github.com/Moein-Bagheri/persian-information-retrieval) | Persian NLP · BM25 | Boolean search, inverted indexing, TF-IDF and BM25 ranking with Hazm |
+| [Text classification with embeddings](https://github.com/Moein-Bagheri/text-classification-embeddings) | Word2Vec · GloVe | Sentiment and news classification with classical ML |
 
-- [Persian information retrieval](https://github.com/Moein-Bagheri/persian-information-retrieval): Boolean search, inverted indexing, TF-IDF and BM25.
-- [Text classification with embeddings](https://github.com/Moein-Bagheri/text-classification-embeddings): Word2Vec and GloVe with classical classifiers.
-- [Classical AI projects](https://github.com/Moein-Bagheri/classical-ai-projects): search, optimization, reinforcement learning, adversarial agents and symbolic reasoning.
-- [Deep ECG lab](https://github.com/Moein-Bagheri/deep-ecg-lab): GRU models for two ECG classification tasks.
-- [Smile detector](https://github.com/Moein-Bagheri/smile-detector): MobileNetV2 transfer learning and a webcam interface.
-- [Neural style transfer](https://github.com/Moein-Bagheri/neural-style-transfer): VGG19-based image stylization with saved examples.
-- [N-gram music completion](https://github.com/Moein-Bagheri/ngram-music-completion): statistical modeling of musical-note sequences, connecting programming with my interest in music.
+Also: [NLP fundamentals](https://github.com/Moein-Bagheri/nlp-fundamentals-labs) · [Low-resource sentiment analysis design](https://github.com/Moein-Bagheri/ai-system-design-studies/tree/main/low-resource-sentiment)
 
-### Product and system design
+## Other machine learning
 
-- [Irangard business case](https://github.com/Moein-Bagheri/irangard-business-case): a local-discovery concept, business model and course validation work.
-- [Talent Search project planning](https://github.com/Moein-Bagheri/talent-search-project-planning): scope, work breakdown, Gantt planning and dependencies.
-- [Chapar system design](https://github.com/Moein-Bagheri/chapar-system-design): requirements, models and interface concepts for a parcel-delivery system.
-- [AI system design studies](https://github.com/Moein-Bagheri/ai-system-design-studies): design proposals for industrial Edge AI and low-resource sentiment analysis.
+- [Hand gesture recognition](https://github.com/Moein-Bagheri/hand-gesture-recognition): YOLOv8 detection with a webcam demo.
+- [Smile detector](https://github.com/Moein-Bagheri/smile-detector): MobileNetV2 transfer learning with a live webcam interface.
+- [Neural style transfer](https://github.com/Moein-Bagheri/neural-style-transfer): VGG19-based image stylization.
+- [Credit limit prediction](https://github.com/Moein-Bagheri/credit-limit-prediction): data cleaning, model comparison and an interpretable regression pipeline.
+- [Classical AI projects](https://github.com/Moein-Bagheri/classical-ai-projects): search, reinforcement learning, minimax and LLM-assisted Prolog reasoning.
 
-### Computer engineering foundations
+## Product and design
+
+I also care about whether what I build is useful to people, so part of my coursework went into user research and product discovery.
+
+- [DiaTech product case](https://github.com/Moein-Bagheri/diatech-product-case): a diabetes self-care concept with competitor analysis, interviews and MVP feedback.
+- [Tourism UX case study](https://github.com/Moein-Bagheri/tourism-ux-case-study): problem framing, user flows, information architecture and a Figma interface.
+- [Irangard business case](https://github.com/Moein-Bagheri/irangard-business-case) · [Chapar system design](https://github.com/Moein-Bagheri/chapar-system-design) · [Talent Search project planning](https://github.com/Moein-Bagheri/talent-search-project-planning) · [Edge AI maintenance design](https://github.com/Moein-Bagheri/ai-system-design-studies/tree/main/edge-ai-maintenance)
+
+## Computer engineering foundations
 
 | Collection | Topics |
 | --- | --- |
 | [Programming foundations](https://github.com/Moein-Bagheri/programming-foundations) | C++, Java, object-oriented programming and data structures |
 | [Math and ML labs](https://github.com/Moein-Bagheri/math-and-ml-labs) | Applied linear algebra, regression, optimization and classification |
 | [Software systems labs](https://github.com/Moein-Bagheri/software-systems-labs) | SQL, web interfaces, operating systems and network programming |
-| [NLP fundamentals](https://github.com/Moein-Bagheri/nlp-fundamentals-labs) | Text preprocessing, classification baselines and maximum entropy |
 | [Embedded systems labs](https://github.com/Moein-Bagheri/embedded-systems-labs) | Digital logic, VHDL and STM32 coursework |
-| [FTP client and server](https://github.com/Moein-Bagheri/ftp-client-server) | Sockets, file transfers and client/server communication |
+| [FTP client and server](https://github.com/Moein-Bagheri/ftp-client-server) | Sockets, file transfers and a TLS control connection |
 
-## Tools used in these projects
+## Tools
 
-**AI and data:** Python, PyTorch, TensorFlow, scikit-learn, pandas, NumPy, OpenCV, librosa, NLTK, Hazm, FAISS and Ollama.
+**Speech, audio and ML:** Python, PyTorch, TensorFlow, librosa, scikit-learn, pandas, NumPy, OpenCV
+**Language and retrieval:** Hazm, NLTK, FAISS, Ollama, Streamlit
+**Software:** SQL, Java, C/C++, HTML/CSS/JavaScript, Git
+**Product and design:** Figma, user research, user flows, business-model analysis
 
-**Software and hardware:** SQL, Java, C/C++, HTML/CSS/JavaScript, VHDL and STM32.
-
-**Product and design:** Figma, user flows, information architecture, business-model analysis and project planning.
-
-The repositories collect university implementations, exercises and design studies. Their READMEs describe the original scope, available outputs, data requirements and team credits. Introductions are in English; some original reports and design artifacts are in Persian.
+These repositories collect university projects, exercises and design studies. Each README describes the original scope, outputs, data requirements and team credits. Introductions are in English; some original reports are in Persian.
