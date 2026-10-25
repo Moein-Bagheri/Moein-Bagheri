@@ -4,7 +4,7 @@
 
 Computer Engineering student at the University of Isfahan, AI track. I work on machine learning for speech, audio and language: from signal features to models that understand what people say and how they say it.
 
-I came to engineering through music: classical piano, then my own tracks and an album in high school ([listen to "Lost"](https://open.spotify.com/track/5XsByB4fuiNMkH6EoaS5tr)).
+I came to engineering through music: classical piano, then my own tracks and an album in high school.
 
 **Now:** final-year project on Persian–English speech recognition · open to AI roles in NLP, speech and signal processing.
 
