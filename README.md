@@ -20,6 +20,8 @@ I came to engineering through music: classical piano, then my own tracks and an 
 
 On the design and product side: [neural style transfer](https://github.com/Moein-Bagheri/neural-style-transfer), repainting a poster in the look of an art movement, and [DiaTech](https://github.com/Moein-Bagheri/diatech-product-case), interviews and MVP feedback for a type-2 diabetes self-care concept (team of four).
 
+Computer vision: [smile detection](https://github.com/Moein-Bagheri/smile-detector) and [hand-gesture detection](https://github.com/Moein-Bagheri/hand-gesture-recognition), both running live on a webcam.
+
 Every university project, course by course, is mapped on [moeinbagheri.com](https://moeinbagheri.com).
 
 **Tools:** Python · PyTorch · TensorFlow · scikit-learn · librosa · Hazm · FAISS · Ollama · SQL · Git · Figma
