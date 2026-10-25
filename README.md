@@ -18,7 +18,7 @@ I came to engineering through music: classical piano, then my own tracks and an 
 | [Deep ECG lab](https://github.com/Moein-Bagheri/deep-ecg-lab) | GRU networks for heartbeat classification on MIT-BIH (five classes) and PTBDB (normal or abnormal). *TensorFlow* |
 | [Melodies as language](https://github.com/Moein-Bagheri/ngram-music-completion) | Persian melodies read as language: n-gram models finish the phrase, quarter-tones and all. *Language models · perplexity* |
 
-On the product side: [DiaTech](https://github.com/Moein-Bagheri/diatech-product-case), competitor analysis, user interviews and MVP feedback for a type-2 diabetes self-care concept (team of four).
+On the design and product side: [neural style transfer](https://github.com/Moein-Bagheri/neural-style-transfer), repainting a poster in the look of an art movement, and [DiaTech](https://github.com/Moein-Bagheri/diatech-product-case), interviews and MVP feedback for a type-2 diabetes self-care concept (team of four).
 
 Every university project, course by course, is mapped on [moeinbagheri.com](https://moeinbagheri.com).
 
