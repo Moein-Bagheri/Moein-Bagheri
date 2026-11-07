@@ -26,4 +26,4 @@ Every university project, course by course, is mapped on [moeinbagheri.com](http
 
 **Tools:** Python · PyTorch · TensorFlow · scikit-learn · librosa · Hazm · FAISS · Ollama · SQL · Git · Figma
 
-[moeinbagheri.com](https://moeinbagheri.com) · [CV](https://moeinbagheri.com/cv/) · [moeinbagheri.ai@gmail.com](mailto:moeinbagheri.ai@gmail.com)
+[moeinbagheri.com](https://moeinbagheri.com) · [CV](https://moeinbagheri.com/cv/) · [LinkedIn](https://www.linkedin.com/in/moeinbagheri) · [moeinbagheri.ai@gmail.com](mailto:moeinbagheri.ai@gmail.com)
