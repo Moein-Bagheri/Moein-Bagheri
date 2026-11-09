@@ -1,6 +1,6 @@
 # Moein Bagheri
 
-**Building AI that listens · Speech & Audio AI**
+**AI product builder with an ear for detail · Speech & Audio AI**
 
 Computer Engineering student at the University of Isfahan, AI track. I work on machine learning for speech, audio and language: from signal features to models that understand what people say and how they say it.
 
