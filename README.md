@@ -2,9 +2,11 @@
 
 **AI product builder with an ear for detail · Speech & Audio AI**
 
-Computer Engineering student at the University of Isfahan, AI track. I work on machine learning for speech, audio and language: from signal features to models that understand what people say and how they say it.
+Final-year Computer Engineering student at the University of Isfahan, AI track. I build AI products, mostly for speech, audio and language: from signal features to models that hear what people say, and how they say it.
 
-I came to engineering through music: classical piano, then my own tracks and an album in high school.
+I came to engineering through music: classical piano, then my own tracks, then an album in high school.
+
+I'm AI-native, so building is the fast part. Checking is where I take my time.
 
 **Now:** final-year project on Persian–English speech recognition · open to AI roles in NLP, speech and signal processing.
 
