@@ -14,7 +14,7 @@ I'm AI-native, so building is the fast part. Checking is where I take my time.
 
 | Project | What it shows |
 | --- | --- |
-| [Speech emotion recognition](https://github.com/Moein-Bagheri/speech-emotion-recognition) | Can a model hear emotion in a stranger's voice? Less than it seems: 1D CNNs on MFCCs scored 65.1% on a random split and 58.0% on unseen speakers. *PyTorch · librosa* |
+| [Speech emotion recognition](https://github.com/Moein-Bagheri/speech-emotion-recognition) | Can a model hear emotion in a stranger's voice? Less than it seems: 1D CNNs on MFCCs scored 66.7% on a random split and 52.6% on unseen speakers. *PyTorch · librosa* |
 | [Local research assistant](https://github.com/Moein-Bagheri/local-research-assistant) | Answers questions about research papers, citing the page each answer comes from, on one laptop. *RAG · Ollama · FAISS · Streamlit* |
 | [Persian search engine](https://github.com/Moein-Bagheri/persian-information-retrieval) | Boolean and ranked search over Persian text, with an inverted index, TF-IDF and BM25 (with S. Heydari). *Python · Hazm* |
 | [Deep ECG lab](https://github.com/Moein-Bagheri/deep-ecg-lab) | GRU networks for heartbeat classification on MIT-BIH (five classes) and PTBDB (normal or abnormal). *TensorFlow* |
