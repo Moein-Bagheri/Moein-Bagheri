@@ -1,6 +1,6 @@
 # Moein Bagheri
 
-**AI product builder with an ear for detail · Speech & Audio AI**
+**AI product builder with an ear for detail · Speech, Audio & Language**
 
 Final-year Computer Engineering student at the University of Isfahan, AI track. I build AI products, mostly for speech, audio and language: from signal features to models that hear what people say, and how they say it.
 
@@ -8,7 +8,7 @@ I came to engineering through music: classical piano, then my own tracks, then a
 
 I'm AI-native, so building is the fast part. Checking is where I take my time.
 
-**Now:** final-year project on Persian–English speech recognition · open to AI roles in NLP, speech and signal processing.
+**Now:** final-year project on Persian–English speech recognition · open to applied AI and AI product roles.
 
 ## Selected work
 
