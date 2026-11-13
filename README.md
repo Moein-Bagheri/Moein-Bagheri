@@ -2,7 +2,9 @@
 
 **AI product builder with an ear for detail · Speech, Audio & Language**
 
-I came to engineering through music: classical piano, then my own tracks, then an album in high school. The part I kept coming back to was building things. Sound is where the two meet.
+I build AI products. Speech is my favorite area: what people say, and how they say it.
+
+I came to engineering through music: classical piano, then my own tracks, then an album in high school.
 
 I'm AI-native, so building is the fast part. Checking is where I take my time.
 
