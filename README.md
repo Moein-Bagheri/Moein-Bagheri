@@ -1,8 +1,8 @@
-Still looking for the right sound.
+AI got good at talking. I work on the listening.
 
-Music first: piano, my own tracks, an album in high school.\
-I like AI that listens, and AI that makes new sounds.\
-AI-native: build fast, check slow.
+Piano first, then my own tracks, then an album in high school. I build AI products the way I learned to finish a track: listen until nothing sounds wrong.
+
+Still looking for a sound that doesn't exist yet.
 
 **Now:** final year of Computer Engineering at the University of Isfahan, with a project on Persian–English speech recognition · open to applied AI and AI product roles.
 
