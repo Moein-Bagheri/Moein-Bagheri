@@ -1,12 +1,8 @@
-# Moein Bagheri
+Still looking for the right sound.
 
-**AI product builder with an ear for detail · Speech, Audio & Language**
-
-I build AI products. Speech is my favorite area: what people say, and how they say it.
-
-I came to engineering through music: classical piano, then my own tracks, then an album in high school.
-
-I'm AI-native, so building is the fast part. Checking is where I take my time.
+Music first: piano, my own tracks, an album in high school.\
+I like AI that listens, and AI that makes new sounds.\
+AI-native: build fast, check slow.
 
 **Now:** final year of Computer Engineering at the University of Isfahan, with a project on Persian–English speech recognition · open to applied AI and AI product roles.
 
