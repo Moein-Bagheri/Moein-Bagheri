@@ -1,1 +1,21 @@
 # Seeking the best sounds worldwide
+
+## Selected work
+
+| Project | What it shows |
+| --- | --- |
+| [Speech emotion recognition](https://github.com/Moein-Bagheri/speech-emotion-recognition) | Can a model hear emotion in a stranger's voice? Less than it seems: 1D CNNs on MFCCs scored 66.7% on a random split and 52.6% on unseen speakers. *PyTorch · librosa* |
+| [Local research assistant](https://github.com/Moein-Bagheri/local-research-assistant) | Answers questions about research papers, citing the page each answer comes from, on one laptop. *RAG · Ollama · FAISS · Streamlit* |
+| [Persian search engine](https://github.com/Moein-Bagheri/persian-information-retrieval) | Boolean and ranked search over Persian text, with an inverted index, TF-IDF and BM25 (with S. Heydari). *Python · Hazm* |
+| [Deep ECG lab](https://github.com/Moein-Bagheri/deep-ecg-lab) | GRU networks for heartbeat classification on MIT-BIH (five classes) and PTBDB (normal or abnormal). *TensorFlow* |
+| [Melodies as language](https://github.com/Moein-Bagheri/ngram-music-completion) | Persian melodies read as language: n-gram models finish the phrase, quarter-tones and all. *Language models · perplexity* |
+
+On the design and product side: [neural style transfer](https://github.com/Moein-Bagheri/neural-style-transfer), repainting a poster in the look of an art movement, and [DiaTech](https://github.com/Moein-Bagheri/diatech-product-case), interviews and MVP feedback for a type-2 diabetes self-care concept (team of four).
+
+Computer vision: [smile detection](https://github.com/Moein-Bagheri/smile-detector) and [hand-gesture detection](https://github.com/Moein-Bagheri/hand-gesture-recognition), both running live on a webcam.
+
+Every university project, course by course, is mapped on [moeinbagheri.com](https://moeinbagheri.com).
+
+**Tools:** Python · PyTorch · TensorFlow · scikit-learn · librosa · Hazm · FAISS · Ollama · SQL · Git · Figma
+
+[moeinbagheri.com](https://moeinbagheri.com) · [CV](https://moeinbagheri.com/cv/) · [LinkedIn](https://www.linkedin.com/in/moeinbagheri) · [moeinbagheri.ai@gmail.com](mailto:moeinbagheri.ai@gmail.com)
